@@ -1,0 +1,20 @@
+/*Artfully created by Carole Brown*/
+
+body{
+	font-family: verdana, arial, sans-serif, helvetica;
+	font-weight: normal;
+	font-size: 14px;
+	position: relative;
+}
+
+h3{
+	font-weight: bold;
+	font-size: 24px;
+}
+
+footer{
+	margin-bottom: 1%;
+	background-color: #326872;
+	color: white;
+
+}
