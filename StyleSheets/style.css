@@ -5,6 +5,7 @@ body{
 	font-weight: normal;
 	font-size: 14px;
 	position: relative;
+	background-color: #A9F5E1
 }
 
 h3{
@@ -13,8 +14,12 @@ h3{
 }
 
 footer{
+	position: absolute;
 	margin-bottom: 1%;
 	background-color: #326872;
+	bottom: 0;
+	left:0;
+	right:0;
 	color: white;
 
 }
